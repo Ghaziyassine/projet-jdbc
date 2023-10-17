@@ -1,26 +1,44 @@
-# projet-jdbc
+# Gestion des Clients et des Services
 
+Ce projet Java Swing offre une interface graphique pour gérer les clients et les services. Il permet de créer, mettre à jour, supprimer et rechercher des clients et des services. Ce README fournit des informations sur la façon de configurer, utiliser et contribuer à ce projet.
 
+## Table des matières
 
-## Introduction
+- [Aperçu](#aperçu)
+- [Captures d'écran](#captures-décran)
+- [Fonctionnalités](#fonctionnalités)
+- [Technologies utilisées](#technologies-utilisées)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Contribuer](#contribuer)
+- [Licence](#licence)
 
-This is a sample JDBC project that demonstrates how to use Java Database Connectivity (JDBC), a Java-based API that allows Java applications to interact with relational databases. JDBC provides a standardized way to connect to, query, and update databases, making it a fundamental tool for working with databases in Java applications.
+## Aperçu
 
-## Getting Started
+Ce projet a été développé dans le cadre d'un cours de programmation Java. Il propose une interface utilisateur graphique (GUI) basée sur Swing pour gérer une liste de clients et de services. Il permet de créer de nouveaux clients, de mettre à jour leurs informations, de les supprimer et de rechercher des services.
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+## Captures d'écran
 
-### Prerequisites
+![Capture d'écran 1](![image](https://github.com/Ghaziyassine/projet-jdbc/assets/114885285/66ac8237-2f81-4c5e-b2f2-4c8017f77df8)
+)
+![Capture d'écran 2](screenshots/screenshot2.png)
 
-Before you begin, ensure you have met the following requirements:
+## Fonctionnalités
 
-- Java Development Kit (JDK)
-- A relational database (e.g., MySQL, PostgreSQL)
-- JDBC driver for your chosen database
+- Ajouter un nouveau client avec nom, prénom, date de naissance et service associé.
+- Mettre à jour les informations d'un client existant.
+- Supprimer un client de la liste.
+- Rechercher des services disponibles.
 
-### Installation
+## Technologies utilisées
 
-1. Clone the repository:
+- Java Swing (GUI)
+- MySQL (base de données)
+- JDBC (Java Database Connectivity)
 
-   ```sh
-   git clone https://github.com/yourusername/jdbc-project.git
+## Installation
+
+1. Clônez ce dépôt sur votre machine locale.
+
+```shell
+git clone https://github.com/Ghaziyassine/projet-jdbc.git
