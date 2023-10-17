@@ -9,9 +9,7 @@ Ce projet Java Swing offre une interface graphique pour gérer les clients et le
 - [Fonctionnalités](#fonctionnalités)
 - [Technologies utilisées](#technologies-utilisées)
 - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
+
 
 ## Aperçu
 
@@ -19,14 +17,17 @@ Ce projet a été développé dans le cadre d'un cours de programmation Java. Il
 
 ## Captures d'écran
 
-![Capture d'écran 1](![image](https://github.com/Ghaziyassine/projet-jdbc/assets/114885285/b5faa819-e441-4509-bf11-fb5c7ef08e15)
-)
-)
-)
-![Capture d'écran 2](screenshots/screenshot2.png)
+Gestion des clients:![image](https://github.com/Ghaziyassine/projet-jdbc/assets/114885285/992e2953-ba7d-442c-89d8-943d04c470dc)
+
+Gestion des service:![image](https://github.com/Ghaziyassine/projet-jdbc/assets/114885285/06431a0e-e551-4880-9d6f-22193cbc029b)
+
+Recherche des clients par service: ![image](https://github.com/Ghaziyassine/projet-jdbc/assets/114885285/61ed1db0-e1d0-4c59-a319-dd84057b58a5)
+
+
+
 
 ## Fonctionnalités
-
+- Ajouter un nouveau Service 
 - Ajouter un nouveau client avec nom, prénom, date de naissance et service associé.
 - Mettre à jour les informations d'un client existant.
 - Supprimer un client de la liste.
