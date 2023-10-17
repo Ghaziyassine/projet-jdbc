@@ -19,7 +19,9 @@ Ce projet a été développé dans le cadre d'un cours de programmation Java. Il
 
 ## Captures d'écran
 
-![Capture d'écran 1](![image](https://github.com/Ghaziyassine/projet-jdbc/assets/114885285/66ac8237-2f81-4c5e-b2f2-4c8017f77df8)
+![Capture d'écran 1](![image](https://github.com/Ghaziyassine/projet-jdbc/assets/114885285/b5faa819-e441-4509-bf11-fb5c7ef08e15)
+)
+)
 )
 ![Capture d'écran 2](screenshots/screenshot2.png)
 
